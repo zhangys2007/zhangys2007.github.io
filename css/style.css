@@ -96,7 +96,7 @@ h1, h2, h3, h4, h5, h6, figure {
   background-size: cover;
   background-attachment: fixed;
   position: relative;
-  height: 600px;
+  height: 500px;
   width: 100%;
 }
 #fh5co-header .overlay,
@@ -292,7 +292,7 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-blog,
 #fh5co-pricing,
 #fh5co-contact {
-  padding: 7em 0;
+  padding: 3em 0;
   clear: both;
 }
 @media screen and (max-width: 768px) {
@@ -730,7 +730,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 @media screen and (max-width: 480px) {
   .work {
-    height: 270px;
+    height: 270px
   }
 }
 .work .desc {
@@ -984,9 +984,10 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 #fh5co-footer {
-  padding: 50px 0;
+  padding: 0px 0;
   float: left;
   width: 100%;
+  background-color: #FF9000;
 }
 #fh5co-footer p:last-child {
   margin-bottom: 0;
