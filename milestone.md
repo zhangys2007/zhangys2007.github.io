@@ -1,12 +1,11 @@
 ---
 layout: page
-title: "milestone"
+title: "重大事件"
 description: "代表作"
 header-img: "img/zhihu.jpg"
 ---
 2018-02-09-新手玩github.md
 
-这个页面放置你的代表作。
 
 
 
