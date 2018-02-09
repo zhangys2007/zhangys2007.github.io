@@ -34,11 +34,3 @@
     
     Not creating a link for ref_id = "0".Liquid Exception: undefined method `gsub' for ["Algorithms"]:Array in post
     
-
-但没说是哪篇文章的哪一行，没办法只好使用grep查找：
-    
-    grep Algorithms _posts/*
-    
-
-找出所有存在Algorithms单词的文章，然后逐个文章打开查看。
-  *[2013-01-08 Tue]: 2013-01-08T00:00:00+08:00
