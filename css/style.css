@@ -891,6 +891,9 @@ h1, h2, h3, h4, h5, h6, figure {
 .fh5co-blog .blog-text .stuff li:last-child {
   float: right;
 }
+.but-more{
+ float: right;
+}
 .fh5co-blog .blog-text .stuff li:last-child a {
   color: #000;
 }
