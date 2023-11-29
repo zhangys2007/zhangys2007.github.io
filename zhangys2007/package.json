@@ -1,0 +1,14 @@
+{
+  "name": "zhangys2007",
+  "version": "1.0.0",
+  "author": "张阳帅",
+  "scripts": {
+    "dev": "vuepress dev . --open --host \"localhost\"",
+    "build": "vuepress build ."
+  },
+  "devDependencies": {
+    "vuepress": "1.9.7",
+    "vuepress-theme-reco": "1.6.17"
+  },
+  "description": "张茨一飞"
+}
